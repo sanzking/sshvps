@@ -3,7 +3,7 @@
 <p>Script ini merupakan script untuk melakukan auto login vps, serta untuk membuat akun ssh</p>
 <hr>
 <table>
-<thead>
+<thead style="color: grey">
 <th colspan="2">module yang diperlukan</th>
 </thead>
 <tbody>
