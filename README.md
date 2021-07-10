@@ -18,3 +18,11 @@
 </tr>
 </tbody>
 </table>
+<hr>
+<b>SCREENSHOT SCRIPT</b>
+<img src="main.jpg"/>
+<img src="vps.jpg"/>
+<img src="ssh.jpg"/>
+<img src="ssh2.jpg"/>
+</body>
+</html>
