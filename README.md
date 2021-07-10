@@ -1,5 +1,6 @@
-
+<center>
 <b>PERHATIAN!!</b>
+</center>
 <p>Script ini merupakan script untuk melakukan auto login vps, serta untuk membuat akun ssh</p>
 <hr>
 <table>
