@@ -19,7 +19,9 @@
 </tbody>
 </table>
 <hr>
-<b>SCREENSHOT SCRIPT</b>
+<center>
+<h2>SCREENSHOT SCRIPT</h2>
+<center>
 <img src="main.jpg"/>
 <img src="vps.jpg"/>
 <img src="ssh.jpg"/>
