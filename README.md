@@ -8,8 +8,12 @@
 </thead>
 <tbody>
 <tr>
-<td>python</td>
+<td>module python (pip install)</td>
 <td>requests, tabulate, datetime</td>
+</tr>
+<tr>
+<td>Module Tambahan (apt install)</td>
+<td>openssh, sshpass</td>
 </tr>
 </tbody>
 </table>
