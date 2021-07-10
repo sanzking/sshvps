@@ -4,7 +4,7 @@
 <hr>
 <table>
 <thead>
-<th>Module Yang Diperlukan</th>
+<th colspan="2">module yang diperlukan</th>
 </thead>
 <tbody>
 <tr>
